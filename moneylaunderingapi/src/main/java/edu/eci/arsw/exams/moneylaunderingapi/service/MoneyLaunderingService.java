@@ -8,4 +8,6 @@ public interface MoneyLaunderingService {
     void updateAccountStatus(SuspectAccount suspectAccount);
     SuspectAccount getAccountStatus(String accountId);
     List<SuspectAccount> getSuspectAccounts();
+
+    void addSuspect(SuspectAccount account) throws Exception;
 }
