@@ -102,6 +102,7 @@ public class MoneyLaundering {
                 for (ThreadLaundering hilo : moneyLaundering.getHilos()) {
                     hilo.reanudar();
                 }
+
             }
         }
         showReport();
