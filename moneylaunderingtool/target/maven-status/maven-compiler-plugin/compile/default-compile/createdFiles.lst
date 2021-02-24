@@ -1,0 +1,6 @@
+edu\eci\arsw\moneylaundering\MoneyLaundering.class
+edu\eci\arsw\moneylaundering\AccountReporter.class
+edu\eci\arsw\moneylaundering\ThreadLaundering.class
+edu\eci\arsw\moneylaundering\Transaction.class
+edu\eci\arsw\moneylaundering\TransactionAnalyzer.class
+edu\eci\arsw\moneylaundering\TransactionReader.class
